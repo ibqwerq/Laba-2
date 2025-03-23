@@ -42,10 +42,15 @@
 **Результаты тестирования**
 
 Тест 1
+
 ![image](https://github.com/user-attachments/assets/d048662f-64b9-4620-a35e-7572cb8d99b5)
+
 Тест 2 
+
 ![image](https://github.com/user-attachments/assets/a2956438-be61-4468-991c-c0d7b4861305)
+
 Тест 3 
+
 ![image](https://github.com/user-attachments/assets/f0761161-9d82-4cdf-9d3c-9876fcf2c398)
 
 
