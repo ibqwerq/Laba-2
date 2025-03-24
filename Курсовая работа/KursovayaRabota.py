@@ -50,7 +50,7 @@ def save_data(schools, filename):
     print("Данные сохранены в файл.")
 
 def main():
-    filename = "schools.json"
+    filename = "../schools.json"
     schools = load_data(filename)
 
     while True:
